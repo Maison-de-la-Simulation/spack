@@ -1,13 +1,13 @@
-# PDI spack repository
+# MdlS spack repository
 
 This is a [spack](https://spack.io/) repository with recipes for:
-[DDC](https://github.com/Maison-de-la-Simulation/ddc),
-Deisa,
-[Gysela](https://gyselax.github.io/),
-[layout-contiguous](https://github.com/Maison-de-la-Simulation/layout-contiguous),
-[PDI](https://pdi.dev) and its plugins.
+* [DDC](https://github.com/Maison-de-la-Simulation/ddc),
+* Deisa,
+* [Gysela](https://gyselax.github.io/),
+* [layout-contiguous](https://github.com/Maison-de-la-Simulation/layout-contiguous),
+* [PDI](https://pdi.dev) and its plugins.
 
-Each of thiese can be installed in a few simple steps:
+Each of these can be installed in a few simple steps:
 1. [setup spack](#step-1-setup),
 2. [(optional): reuse already installed packages](#step-2-optional-reuse-already-installed-packages),
 3. [(optional): reuse already installed compilers](#step-3-optional-reuse-already-installed-compilers),
